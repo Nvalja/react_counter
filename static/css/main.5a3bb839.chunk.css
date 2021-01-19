@@ -1,0 +1,2 @@
+body{background-color:#c2c2c2}.counter{display:flex;justify-content:space-between;max-width:300px;margin:0 auto;box-shadow:1px 1px 10px 1px #000}.counter,.counter__button{padding:10px;border-radius:5px}.counter__button{display:block;width:80px;margin-bottom:5px;background-color:#9e2d9e;transition:background-color .3s}.counter__button:hover{background-color:#8a288a}
+/*# sourceMappingURL=main.5a3bb839.chunk.css.map */
